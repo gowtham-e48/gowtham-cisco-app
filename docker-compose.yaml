@@ -7,4 +7,4 @@ services:
       dockerfile: Dockerfile
     container_name: gowthamday4con2
     ports:
-    - 1248:80
+    - 1249:80
