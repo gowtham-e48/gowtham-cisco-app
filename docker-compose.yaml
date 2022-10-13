@@ -5,6 +5,6 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    container_name: gowthamday4con1
+    container_name: gowthamday4con2
     ports:
     - 1248:80
