@@ -4,7 +4,7 @@ services:
     image: gowtham_image1:day4v1
     build: 
       context: .
-      dockerfile: day4app.dockerfile
+      dockerfile: Dockerfile
     container_name: gowthamday4con1
     ports:
     - 1248:80
